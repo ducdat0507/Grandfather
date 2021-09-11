@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grandfather", "Grandfather\Grandfather.csproj", "{06F571D2-7608-4593-9477-C5B4B49AA42F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F571D2-7608-4593-9477-C5B4B49AA42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F571D2-7608-4593-9477-C5B4B49AA42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F571D2-7608-4593-9477-C5B4B49AA42F}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{06F571D2-7608-4593-9477-C5B4B49AA42F}.Debug|ARM32.Build.0 = Debug|ARM32
+		{06F571D2-7608-4593-9477-C5B4B49AA42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F571D2-7608-4593-9477-C5B4B49AA42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F571D2-7608-4593-9477-C5B4B49AA42F}.Release|ARM32.ActiveCfg = Release|ARM32
+		{06F571D2-7608-4593-9477-C5B4B49AA42F}.Release|ARM32.Build.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F855CEF-2DEF-42BC-99A4-24F46F0A2E0B}
+	EndGlobalSection
+EndGlobal
